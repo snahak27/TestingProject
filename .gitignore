@@ -1,1 +1,5 @@
 .*jpg
+*.md
+img*
+.md
+!README.md
